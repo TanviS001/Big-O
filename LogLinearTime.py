@@ -9,7 +9,8 @@ def merge_sort(arr):
         merge_sort(right_half)
         # Merging logic omitted for brevity
     return arr
-  
+
+
 # Log-linear time complexity.
 # Common in efficient sorting algorithms like merge sort or heap sort.
 # A balance between speed and complexity for larger datasets.
