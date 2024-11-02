@@ -12,6 +12,7 @@ def binary_search(arr, target):
             right = mid - 1
     return -1
 
+
 # Logarithmic time complexity.
 # The runtime grows slower as the input size increases, typical in divide-and-conquer algorithms like binary search.
 # Efficient with larger inputs.
