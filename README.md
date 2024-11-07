@@ -1,5 +1,4 @@
 # Learning Big-O Notation
-Learn and practice Big O.
 
 ## What is Big O Notation?
 
